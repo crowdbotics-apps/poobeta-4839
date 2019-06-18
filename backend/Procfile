@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT poobeta_4839.wsgi:application
